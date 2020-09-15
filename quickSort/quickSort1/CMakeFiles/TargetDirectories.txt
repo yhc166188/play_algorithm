@@ -1,0 +1,3 @@
+/Users/yanhuichao/yhc/cmake/untitled/CMakeFiles/rebuild_cache.dir
+/Users/yanhuichao/yhc/cmake/untitled/CMakeFiles/edit_cache.dir
+/Users/yanhuichao/yhc/cmake/untitled/CMakeFiles/untitled.dir
